@@ -1,0 +1,15 @@
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Release\Aspose.3D.dll
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Release\Aspose.3D.xml
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.Config.resources
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.Error.resources
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csproj.ResolveComReference.cache
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Release\Anycubic Photo Workshop.exe.config
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Release\Anycubic Photo Workshop.exe
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Release\Anycubic Photo Workshop.pdb
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\Anycubic Photo Workshop.exe
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\Anycubic Photo Workshop.pdb

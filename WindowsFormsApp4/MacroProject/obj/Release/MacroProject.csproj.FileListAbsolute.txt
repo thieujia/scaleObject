@@ -1,0 +1,9 @@
+C:\Users\nhat\source\repos\WindowsFormsApp4\MacroProject\bin\Release\MacroProject.exe.config
+C:\Users\nhat\source\repos\WindowsFormsApp4\MacroProject\bin\Release\MacroProject.exe
+C:\Users\nhat\source\repos\WindowsFormsApp4\MacroProject\bin\Release\MacroProject.pdb
+C:\Users\nhat\source\repos\WindowsFormsApp4\MacroProject\obj\Release\MacroProject.Form1.resources
+C:\Users\nhat\source\repos\WindowsFormsApp4\MacroProject\obj\Release\MacroProject.Properties.Resources.resources
+C:\Users\nhat\source\repos\WindowsFormsApp4\MacroProject\obj\Release\MacroProject.csproj.GenerateResource.cache
+C:\Users\nhat\source\repos\WindowsFormsApp4\MacroProject\obj\Release\MacroProject.csproj.CoreCompileInputs.cache
+C:\Users\nhat\source\repos\WindowsFormsApp4\MacroProject\obj\Release\MacroProject.exe
+C:\Users\nhat\source\repos\WindowsFormsApp4\MacroProject\obj\Release\MacroProject.pdb

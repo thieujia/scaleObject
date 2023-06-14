@@ -1,0 +1,33 @@
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Aspose.3D.dll
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Aspose.3D.xml
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Config.resources
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Error.resources
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.ResolveComReference.cache
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Anycubic Photo Workshop.exe.config
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Anycubic Photo Workshop.exe
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Anycubic Photo Workshop.pdb
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Anycubic Photo Workshop.exe
+C:\Users\nhat\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Anycubic Photo Workshop.pdb
+D:\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Anycubic Photo Workshop.exe.config
+D:\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Anycubic Photo Workshop.exe
+D:\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Anycubic Photo Workshop.pdb
+D:\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Aspose.3D.dll
+D:\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Aspose.3D.xml
+D:\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+D:\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+D:\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.ResolveComReference.cache
+D:\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Config.resources
+D:\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Error.resources
+D:\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+D:\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+D:\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Anycubic Photo Workshop.exe
+D:\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Anycubic Photo Workshop.pdb
